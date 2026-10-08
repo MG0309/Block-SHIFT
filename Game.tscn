@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://dy5fncadvw2e3"]
+
+[node name="Game" type="Node2D" unique_id=501973593]
+
+[node name="Piece" type="Node2D" parent="." unique_id=1960019363]
+
+[node name="GridBoard" type="Node2D" parent="." unique_id=1834310613]
+
+[node name="Tray" type="Node2D" parent="." unique_id=871893300]
+
+[node name="Node2D" type="Node2D" parent="." unique_id=801580229]
