@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="Block Shift"
-run/main_scene="uid://dy5fncadvw2e3"
+run/main_scene="res://scenes/Main.tscn"
 config/features=PackedStringArray("4.8", "GL Compatibility")
 boot_splash/bg_color=Color(0.101960786, 0.16862746, 0.29803923, 1)
 boot_splash/show_image=false
